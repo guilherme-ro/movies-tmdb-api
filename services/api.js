@@ -1,4 +1,4 @@
-import { TMDB_API_KEY } from "./api_config.js"
+import TMDB_API_KEY from "./api_config.js"
 
 
 async function searchMovieByName(title) {
